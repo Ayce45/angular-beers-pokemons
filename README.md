@@ -1,5 +1,9 @@
 # ArchiJs
 
+Angular basic app to fetch pokemons and beers with api.
+Angular 12, Tailwindcss 2
+![screencapture-localhost-4200-beers-2021-11-02-11_28_10](https://user-images.githubusercontent.com/32338891/139830276-02517915-6235-4473-88ad-dec6fe0631af.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
 ## Development server
